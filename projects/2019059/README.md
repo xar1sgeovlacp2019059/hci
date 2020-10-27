@@ -8,7 +8,6 @@
 | 2 | Άσκηση προγραμματισμού | <span>See the Pen <a href="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE">
   gOMrqeE</a> by π2019059 (<a href="https://codepen.io/xar1sgeovlacp2019059">@xar1sgeovlacp2019059</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
 | 3 | Άσκηση γραμμής εντολών | https://asciinema.org/a/4m0nEnT3tnZlIhkwP1yHMpHVf
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 5 | Άσκηση γραμμής εντολών |

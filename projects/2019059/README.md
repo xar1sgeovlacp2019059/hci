@@ -6,7 +6,7 @@
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
 | 2 | Άσκηση προγραμματισμού | <span>See the Pen <a href="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE">
-  gOMrqeE</a> by π2019059 (<a href="https://codepen.io/xar1sgeovlacp2019059">@xar1sgeovlacp2019059</a>)
+  gOMrqeE</a> by π2019059 (<a href="https://codepen.io/xar1sgeovlacp2019059">@xar1sgeovlacp2019059)
   </span>
 | 3 | Άσκηση γραμμής εντολών | https://asciinema.org/a/4m0nEnT3tnZlIhkwP1yHMpHVf
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |

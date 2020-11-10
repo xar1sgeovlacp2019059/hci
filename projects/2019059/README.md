@@ -8,7 +8,7 @@
 | 2 | Άσκηση προγραμματισμού: <span>H ασκηση ειναι <a href="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE"> εδω </a>  AM: π2019059 (<a href="https://codepen.io/xar1sgeovlacp2019059">@xar1sgeovlacp2019059</a>)</span>|
 | 3 | Άσκηση γραμμής εντολών: <span>Η ασκηση ειναι <a href="https://asciinema.org/a/rNQQuCEj6vPdy8zFP9lQB2KBs"> εδω</a></span> | 
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) <a href="https://codepen.io/xar1sgeovlacp2019059/pen/zYBWWYv"> εδω</a></span> |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | Άσκηση γραμμής εντολών <a href="https://asciinema.org/a/cJBOyNhVPfR0z13XMykgw7BCE">εδω</a></span>|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |

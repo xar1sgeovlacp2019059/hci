@@ -10,7 +10,7 @@
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) <a href="https://codepen.io/xar1sgeovlacp2019059/pen/zYBWWYv"> εδω</a></span> |
 | 5 | Άσκηση γραμμής εντολών <a href="https://asciinema.org/a/cJBOyNhVPfR0z13XMykgw7BCE">εδω</a></span>|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
-| 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) <a herf="https://codepen.io/xar1sgeovlacp2019059/pen/gOMNbgQ"> εδω</a></span>|
+| 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) <a href="https://codepen.io/xar1sgeovlacp2019059/pen/gOMNbgQ"> εδω</a></span>|
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |

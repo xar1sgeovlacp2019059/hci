@@ -40,8 +40,8 @@
 
 # Παραδοτέο 5
  ## Άσκηση γραμμής εντολών 2:
-  Στην συγκεκριμένη άσκηση χρησιμοποίησα το linux terminal προκειμένου να κατεβάσω μουσική απο το youtube. Αναφωρές πείρα απο αυτό το <a href="https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video"> site</a></span>
-  Η άσκηση γραμμής εντολών βρίσκεται <a href="https://asciinema.org/a/cJBOyNhVPfR0z13XMykgw7BCE">εδω</a></span> 
+  Στην συγκεκριμένη άσκηση χρησιμοποίησα το linux terminal προκειμένου να κατεβάσω μουσική απο το youtube. Αναφωρές πείρα απο αυτό το <a href="https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video"> site</a></span>.
+  Η άσκηση γραμμής εντολών βρίσκεται <a href="https://asciinema.org/a/cJBOyNhVPfR0z13XMykgw7BCE">εδω</a></span>. 
   
  
   

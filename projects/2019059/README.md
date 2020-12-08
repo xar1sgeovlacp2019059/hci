@@ -26,12 +26,16 @@
   δείτε τον κώδικα <a href="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE"> εδω </a>
   
   μπορείται να δείτε περισσότερους κώδικες στο profile μου στο <a href="https://codepen.io/xar1sgeovlacp2019059">codepen</a>
+  
 # Παραδοτέο 3
  ## Άσκηση γραμμής εντολών 1:
   Σε αυτή την άσκηση επειδή δεν είμαι εξοικειωμένος με το terminal ούτε ήξερα πως λειτουργεί το asciinema, χρειάστηκα υπερβολικά πολύ χρόνο προκειμένου να κάνω ακομα και την  ποιό εύκολη άσκηση.
   Η ασκηση ειναι <a href="https://asciinema.org/a/rNQQuCEj6vPdy8zFP9lQB2KBs"> εδω</a></span>
  ## Αναφωρές:
   <a href="https://phoenixnap.com/kb/change-bash-prompt-linux"> για την αλλαγή του command line</a></span>
+  
+# Παραδοτέο 4 
+## Άσκηση προγραμματισμου 2:
  
   
   

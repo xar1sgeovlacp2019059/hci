@@ -32,7 +32,7 @@
   Σε αυτή την άσκηση επειδή δεν είμαι εξοικειωμένος με το terminal ούτε ήξερα πως λειτουργεί το asciinema, χρειάστηκα υπερβολικά πολύ χρόνο προκειμένου να κάνω ακομα και την  ποιό εύκολη άσκηση.
   Η ασκηση ειναι <a href="https://asciinema.org/a/rNQQuCEj6vPdy8zFP9lQB2KBs"> εδω</a></span>
  ## Αναφωρές:
-  <a href="https://phoenixnap.com/kb/change-bash-prompt-linux"> για την αλλαγή του command line</a></span>
+  <a href="https://phoenixnap.com/kb/change-bash-prompt-linux"> για την αλλαγή του command line</a></span> πείρα αναφωρές από αυτή την ιστοσελίδα
   
 # Παραδοτέο 4 
 ## Άσκηση προγραμματισμου 2:
